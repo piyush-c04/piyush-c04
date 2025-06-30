@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Cloud Infrastructure Automation , Devops and Cloud Development<br>👯 I’m looking to collaborate on Cloud based / Java Projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about Music and You wont regret it<br>⚡ Cant beat me at Valorant
+🔭 Currently working on Cloud Infrastructure Automation , Devops and Cloud Development<br>👯 I’m looking to collaborate on Cloud based / Devops / Go-Python Development Projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about Music and You wont regret it<br>⚡ Cant beat me at Valorant
 
 
 ## 🌐 Socials:
